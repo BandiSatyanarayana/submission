@@ -28,7 +28,6 @@ Based on GitHub language statistics and repository structure, the following repo
 
 Airbyte is considered a mixed-language repository because Java and Kotlin are dominant even though Python is used in connectors and integrations.
 ## Individual Repository Observations
-
 ### aiokafka
 The repository follows an asynchronous event-driven architecture using Python asyncio. The project is lightweight and focused mainly on Kafka messaging and stream processing.
 
